@@ -1,5 +1,4 @@
 import tensorflow as tf
-import tensorflow_addons as tfa
 import cv2 as cv
 from facerecognition.inception.inception_blocks_v2 import *
 from facerecognition.utils.fr_utils import *
